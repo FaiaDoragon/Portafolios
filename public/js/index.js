@@ -1,5 +1,5 @@
 
-import { banner, home } from "./sources/main.js";
+import { banner, home } from "../sources/main.js";
 
 const nav = document.querySelector('.nav');
 
